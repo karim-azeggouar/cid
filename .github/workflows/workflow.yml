@@ -23,6 +23,6 @@ jobs:
       - name: Deploytest
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-	        branch: gh-pages
+	        branche: gh-pages
           folder: build
 
